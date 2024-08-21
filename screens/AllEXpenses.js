@@ -1,10 +1,10 @@
 import { StyleSheet, Text, View } from "react-native";
 import React from "react";
 
-export default function AllEXpenses() {
+export default function AllExpenses() {
   return (
     <View>
-      <Text>AllEXpenses screen</Text>
+      <Text>AllExpenses screen</Text>
     </View>
   );
 }
