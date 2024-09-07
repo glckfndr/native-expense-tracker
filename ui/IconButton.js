@@ -20,7 +20,7 @@ const styles = StyleSheet.create({
   iconContainer: {
     borderRadius: 24,
     backgroundColor: "green",
-    padding: 5,
+    padding: 4,
     marginRight: 10,
   },
   pressed: { opacity: 0.5 },
